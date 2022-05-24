@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13039" started-at="2022-05-24T06:36:59Z" finished-at="2022-05-24T06:37:12Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13039" started-at="2022-05-24T06:36:59Z" finished-at="2022-05-24T06:37:12Z">
+      <class name="demo.Calculator">
+        <test-method status="PASS" signature="Setup()[pri:0, instance:demo.Calculator@7c16905e]" name="Setup" is-config="true" duration-ms="9122" started-at="2022-05-24T12:06:59Z" finished-at="2022-05-24T12:07:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="Addition()[pri:0, instance:demo.Calculator@7c16905e]" name="Addition" duration-ms="911" started-at="2022-05-24T12:07:09Z" finished-at="2022-05-24T12:07:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Addition -->
+        <test-method status="PASS" signature="Setup2()[pri:0, instance:demo.Calculator@7c16905e]" name="Setup2" is-config="true" duration-ms="86" started-at="2022-05-24T12:07:09Z" finished-at="2022-05-24T12:07:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup2 -->
+        <test-method status="PASS" signature="Division()[pri:0, instance:demo.Calculator@7c16905e]" name="Division" duration-ms="717" started-at="2022-05-24T12:07:10Z" finished-at="2022-05-24T12:07:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Division -->
+        <test-method status="PASS" signature="Setup2()[pri:0, instance:demo.Calculator@7c16905e]" name="Setup2" is-config="true" duration-ms="50" started-at="2022-05-24T12:07:10Z" finished-at="2022-05-24T12:07:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup2 -->
+        <test-method status="PASS" signature="Multiplication()[pri:0, instance:demo.Calculator@7c16905e]" name="Multiplication" duration-ms="499" started-at="2022-05-24T12:07:10Z" finished-at="2022-05-24T12:07:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Multiplication -->
+        <test-method status="PASS" signature="Setup2()[pri:0, instance:demo.Calculator@7c16905e]" name="Setup2" is-config="true" duration-ms="62" started-at="2022-05-24T12:07:11Z" finished-at="2022-05-24T12:07:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup2 -->
+        <test-method status="PASS" signature="Subtraction()[pri:0, instance:demo.Calculator@7c16905e]" name="Subtraction" duration-ms="1481" started-at="2022-05-24T12:07:11Z" finished-at="2022-05-24T12:07:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Subtraction -->
+        <test-method status="PASS" signature="Setup2()[pri:0, instance:demo.Calculator@7c16905e]" name="Setup2" is-config="true" duration-ms="74" started-at="2022-05-24T12:07:12Z" finished-at="2022-05-24T12:07:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup2 -->
+      </class> <!-- demo.Calculator -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
